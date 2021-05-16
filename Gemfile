@@ -6,7 +6,7 @@ ruby '3.0.1'
 # faz pesquisas de forma mais fácil. precisaremos para os filtros
 gem 'ransack'
 
-# permite que o front-end com javascript acesse uma api
+# impede que sites maliciosos acessem nossa API
 gem 'rack-cors'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
